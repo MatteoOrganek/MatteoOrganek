@@ -1,4 +1,4 @@
-Heya, I’m @MatteoOrganek!
+Ciao! I’m @MatteoOrganek!
 
 I’m interested in Automation and I’m currently learning CSharp.
 
